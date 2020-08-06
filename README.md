@@ -1,6 +1,6 @@
 # Bollywood Game in C++
 ## Important:
-I wrote this program when I was in my first year and I posted it on a simple blog that I created at that time (PEC_World.weebly.com). Recently I decided to move all my projects to github and I have taken down this blog. Since I wrote this is 2017 it has some mistakes here and there but it works fine. I improved this project and made a proper desktop application which you can find [here](https://github.com/Aadityajoshi151/Bollywood). I also know this project would have been more easy if I had written it in python but I didn't know python at that time. Here is the exact copy of the post that I worte on my blog on 11 Nov 2017 👇
+I wrote this program when I was in my first year and I posted it on a simple blog that I created at that time (PEC_World.weebly.com). Recently I decided to move all my projects to github and I have taken down this blog. Since I wrote this is 2017 it has some mistakes here and there but it works fine. I improved this project and made a proper desktop application which you can find [here](https://github.com/Aadityajoshi151/Bollywood). I also know this project would have been more easy if I had written it in python but I didn't know python at that time. Here is the exact copy of the post that I wrote on my blog on 11 Nov 2017 👇
 
 ## Description
 Bollywood, we all have played this game once in our lives. This is a classic way to kill time especially in a boring class.  
