@@ -127,7 +127,7 @@ There are some variants available on the internet. This is my version of Bollywo
 In my code,  
 I have used the minus (-) sign to indicate a consonant instead of the underscore (_) sign because when 2 blanks are consecutive, instead of seeing 2 blanks (_ _), we see 2 blanks as one (__) which is very confusing. Using an underscore with a space seemed to be solution for the problem but while replacing, we can only use 1 character and not 2. Underscore and a space counted as 2 characters.
 
--   To indicate spaces, I have used the pipe symbol (|) which has an ASCII vale of 179. The name of the variable is ‘gap’.
+-   To indicate spaces, I have used the pipe symbol (|) which has an ASCII value of 179. The name of the variable is ‘gap’.
 -   I have used 2 functions: - displayused() and displaylogo()
 
 Displayused() displays the wrong letters used after each wrong guess.  
